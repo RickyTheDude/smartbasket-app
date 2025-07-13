@@ -1,7 +1,7 @@
 {
   "name": "SmartBasket App",
   "short_name": "SmartBasket",
-  "start_url": "/smartbasket-app/index.html",
+  "start_url": "/smartbasket-app/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4CAF50",
