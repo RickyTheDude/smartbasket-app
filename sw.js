@@ -3,14 +3,14 @@ const CACHE_NAME = 'smartbasket-v1';
 
 // List all the files you want to cache based on your structure
 const urlsToCache = [
-  '/',
-  'index.html',
-  'src/css/style.css',
-  'src/js/main.js',
-  'src/js/data.js',
-  'src/js/utils.js',
-  'icons/icon-192x192.png',
-  'icons/icon-512x512.png'
+  '/smartbasket-app/',
+  '/smartbasket-app/index.html',
+  '/smartbasket-app/src/css/style.css',
+  '/smartbasket-app/src/js/main.js',
+  '/smartbasket-app/src/js/data.js',
+  '/smartbasket-app/src/js/utils.js',
+  '/smartbasket-app/icons/icon-192x192.png',
+  '/smartbasket-app/icons/icon-512x512.png'
 ];
 
 // Install event: opens the cache and adds the files to it
