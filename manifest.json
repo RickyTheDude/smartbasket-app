@@ -4,7 +4,7 @@
   "start_url": "/smartbasket-app/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#4CAF50",
+  "theme_color": "#055EB2",
   "description": "A smart shopping list application.",
   "icons": [
     {
