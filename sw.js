@@ -10,7 +10,9 @@ const urlsToCache = [
   '/smartbasket-app/src/js/data.js',
   '/smartbasket-app/src/js/utils.js',
   '/smartbasket-app/icons/icon-192x192.png',
-  '/smartbasket-app/icons/icon-512x512.png'
+  '/smartbasket-app/icons/icon-512x512.png',
+  '/smartbasket-app/images/ketchup.jpg',
+  '/smartbasket-app/images/milk.jpeg'
 ];
 
 // Install event: opens the cache and adds the files to it
